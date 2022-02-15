@@ -1,0 +1,16 @@
+- 👋 Hi, I’m @xylosapiens
+- 👀 I haven't already set my interests, although 
+  - standards and good practices, 
+  - test driven development,
+  - functional programming,
+  catch always my attention.
+- 🌱 I’m currently learning
+  - Functional Programming using Racket ("How to Design Programs 2ed."), 
+  - Python and ML using Kaggle, and 
+  - Web Developement following The Odin Project.
+- 💞️ I’m looking to collaborate on any project related with 
+  - nature, 
+  - environment, 
+  - organic farming, 
+  - social responsibility.
+- 📫 How to reach me: xylosapiens@gmail.com
